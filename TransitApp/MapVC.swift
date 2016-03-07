@@ -9,7 +9,7 @@
 import UIKit
 import GoogleMaps
 import Polyline
-
+//Holds all the logic for the maps and drawing polylines on them.
 class MapVC: UIViewController {
     
     //MARK: - Properties
