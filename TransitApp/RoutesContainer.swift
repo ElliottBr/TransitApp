@@ -7,7 +7,7 @@
 //
 
 import UIKit
-
+/Containes the two controllers that form the detailed route view
 class RoutesContainer: UIViewController {
     
     //MARK: - Properties
