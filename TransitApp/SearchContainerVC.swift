@@ -8,7 +8,7 @@
 
 import UIKit
 import GoogleMaps
-
+//Contains all the views that compose the first view you get when opening the app
 class SearchContainerVC: UIViewController {
     
     //MARK: - Outlets
