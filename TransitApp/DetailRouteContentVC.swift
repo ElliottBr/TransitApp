@@ -7,7 +7,7 @@
 //
 
 import UIKit
-
+//Contains all the logic for the bottom part of the detailed route view (everything but the map).
 class DetailRouteContentVC: UIViewController {
     
     //MARK:- Outlets
