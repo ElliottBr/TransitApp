@@ -9,18 +9,8 @@ Once installed:
 0. Close the Xcode project if opened 
 1. Open a terminal window, and $ cd into your project directory.
 2. Create a Podfile. This can be done by running $ pod init.
-3. Open the new Podfile (vi Podfile) and add the following dependencies (by pressing i): 
-
-platform :ios, '8.0'
-use_frameworks!
-
-pod 'SwiftyJSON'
-pod 'GoogleMaps'
-pod 'Polyline', '~> 3.0'
-
-4. Press "esq", then ":wq" to write and quite.
-5. run pod with command $ pod install.
-6. Now, go to the project directory and open App.xcworckspace and build
+3. run pod with command $ pod install.
+4. Now, go to the project directory and open App.xcworckspace and build
 
 
 Comments on Ally and code challenge,
@@ -34,5 +24,7 @@ I think it might be interesting to add a comparing UI when all the alternative r
 Another interesting aspect to think about is the social dimension. Mobility is at the heart of cities, and an activity we all share. I  think there would be some great opportunities in this regard when considering that Ally is already a communitee of modern commuters.  Some Applications already do share locations among friends, but I don't think they achieve true momentum because you wouldn't just use an application to share your geolocation, I wouldn't; nevertheless, you might do it if the application hade some real benefits and embeded this new behavior in a modern way of perceiving urban mobility, hence Ally.
 
 I enjoyed very much working on this projecta, and I hope it will spark an interesting conversation between us. 
+
+Elliott
 
 
