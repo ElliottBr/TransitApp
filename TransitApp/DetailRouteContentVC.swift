@@ -66,8 +66,7 @@ extension DetailRouteContentVC: UITableViewDelegate, UITableViewDataSource {
             cell.startAddressLabel.text =  departureAddress// specificRoute.segments![indexPath.row - 1].stops.first!.name
             cell.stopAddressLabel.text = specificRoute.segments![indexPath.row - 1].stops.last!.name
             cell.extraInformationLabel.text = specificRoute.segments![indexPath.row - 1].travel_mode
-            
-            if specificRoute.type == "public_transport"{
+            if specificRoute.type == "Public Transport"{
                 cell.detailExtraInformation.text = specificRoute.segments![indexPath.row - 1].name
             } else {
                 cell.detailExtraInformation.text = ""
@@ -81,7 +80,7 @@ extension DetailRouteContentVC: UITableViewDelegate, UITableViewDataSource {
             cell.startAddressLabel.text =  specificRoute.segments![indexPath.row - 1].stops.first!.name
             cell.stopAddressLabel.text = specificRoute.segments![indexPath.row - 1].stops.last!.name
             cell.extraInformationLabel.text = specificRoute.segments![indexPath.row - 1].travel_mode
-            if specificRoute.type == "public_transport"{
+            if specificRoute.type == "Public Transport"{
                 cell.detailExtraInformation.text = specificRoute.segments![indexPath.row - 1].name
             } else {
                 cell.detailExtraInformation.text = ""
