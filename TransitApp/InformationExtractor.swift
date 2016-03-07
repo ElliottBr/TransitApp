@@ -8,7 +8,7 @@
 
 import Foundation
 import SwiftyJSON
-
+//holds all the logic for the extraction of the data, in real situation, here is where we would treat the data befor saving or using it.
 class InformationExtractor {
     
     //MARK:- Properties
