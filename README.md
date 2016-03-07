@@ -23,9 +23,9 @@ pod 'Polyline', '~> 3.0'
 6. Now, go to the project directory and open App.xcworckspace and build
 
 
-Comments on Ally,
+Comments on Ally and code challenge,
 
-I didn't implement a CoreData model because the data used is static; nevertheless, in a real scenario, persistent storage would be necessary.
+I used the json file as "persistent" data; nevertheless, in a real scenario, persistent storage would be necessary.
 
 I've followed the UI design of the Ally application; Before making my decision though, I've compared it to many other Transit Applications out there and it is by far one my favorite. I like the simplicity of the UI and the absence of any confusing elements. The Application is great because it is straightforward and makes no mistake bringing me where I need.
 
