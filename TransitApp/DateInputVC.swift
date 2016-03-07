@@ -7,7 +7,7 @@
 //
 
 import UIKit
-
+//Responsible for the date picker
 protocol DateInputVCDelegate {
     func dismissDatePicker()
     func hasSetDate(date: String)
