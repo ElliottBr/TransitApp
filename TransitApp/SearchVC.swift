@@ -15,7 +15,7 @@ protocol SearchVCDelegate {
     func dismissSearchTable()
     func placeInformationIsSet(coordinate : CLLocationCoordinate2D, place: String)
 }
-
+//Appears when user taps on address in first view. This controller contains the search logic for the addresses.
 class SearchVC: UIViewController  {
     
     //MARK: - Outlets
