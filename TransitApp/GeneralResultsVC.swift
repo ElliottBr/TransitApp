@@ -7,8 +7,8 @@
 //
 
 import UIKit
-//import SwiftyJSON
 
+//Contains the first result view, where all results are presented in a list
 class GeneralResultsVC: UIViewController {
 
     //MARK: - Outlets
