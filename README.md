@@ -23,7 +23,7 @@ I think it might be interesting to add a comparing UI when all the alternative r
 
 Another interesting aspect to think about is the social dimension. Mobility is at the heart of cities, and an activity we all share. I  think there would be some great opportunities in this regard when considering that Ally is already a communitee of modern commuters.  Some Applications already do share locations among friends, but I don't think they achieve true momentum because you wouldn't just use an application to share your geolocation, I wouldn't; nevertheless, you might do it if the application hade some real benefits and embeded this new behavior in a modern way of perceiving urban mobility, hence Ally.
 
-I enjoyed very much working on this projecta, and I hope it will spark an interesting conversation between us. 
+I enjoyed very much working on this project, and I hope it will spark an interesting conversation between us. 
 
 Elliott
 
