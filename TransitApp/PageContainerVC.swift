@@ -36,7 +36,7 @@ class PageContainerVC: UIViewController {
     //keep track of page index, otherwise wierd stuff, got to play around with that...
     private var count = Int(){
         didSet{
-            if count <= routes.count - 1 && count > 0 {
+            if count <= routes.count - 1 && count >= 0 {
                 self.delegate?.routeHasChanged(count)
             }
         }
