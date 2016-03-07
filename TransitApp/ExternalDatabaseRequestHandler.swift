@@ -5,7 +5,8 @@
 //  Created by Elliott Brunet on 04/03/16.
 //  Copyright © 2016 Elliott Brunet. All rights reserved.
 //
-
+//This class is just to symbolize that there is a consideration for network calls and such. This class would be called 
+//throughout the applications life cycle to make network call and handle their response.
 import Foundation
 import SwiftyJSON
 
