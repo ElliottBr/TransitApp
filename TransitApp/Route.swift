@@ -10,7 +10,9 @@ import Foundation
 import UIKit
 import GoogleMaps
 //import Polyline
-
+//This class is a substitute for a data model. Each instance of it represents an alternative route. 
+//I also holds the logic of manipulation and extraction. If I had more time I would have implemented a 
+//real data base model and a database handling class. 
 class Route {
     
     //MARK: - Properties
