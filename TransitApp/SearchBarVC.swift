@@ -8,7 +8,7 @@
 
 import UIKit
 import GoogleMaps
-
+//Contains the top part of the first generale view. Here is where the user must press to add an address or a time.
 protocol SearchBarVCDelegate {
     func showSearchTable()
     func showDatePicker()
