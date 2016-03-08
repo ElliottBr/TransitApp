@@ -1,6 +1,6 @@
 # TransitApp
 
-I used Cocoapods as a the third party dependency manager, if you're not familiar with Cocoapoads, here's a link to set it up :
+I used Cocoapods as a the third party dependency manager, if you're not familiar with Cocoapods, here's a link to set it up (it's super simple) :
 
 https://guides.cocoapods.org/using/getting-started.html
 
