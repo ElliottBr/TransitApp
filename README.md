@@ -6,10 +6,10 @@ https://guides.cocoapods.org/using/getting-started.html
 
 Once installed:
 
-0. Close the Xcode project if opened 
+0. Close the Xcode project if opened. 
 1. Open a terminal window, and $ cd into the project directory.
-2. run pod with command $ pod install.
-3. Now, go to the project directory and open App.xcworckspace and build
+2. Run pod with command $ pod install.
+3. Now, go to the project directory and open TransitApp.xcworckspace (not the .xcodeproj) and build.
 
 
 Comments on Ally and code challenge,
