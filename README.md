@@ -14,7 +14,7 @@ Once installed:
 
 Comments on Ally and code challenge,
 
-I used the json file as "persistent" data; nevertheless, in a real scenario, persistent storage would be necessary.
+I used the json file as "persistent" data; nevertheless, in a real scenario, persistent storage would be necessary. I didn't concentrate to much on the way the information for a specific itinerary is presented, with more time, I would have. 
 
 I've followed the UI design of the Ally application; Before making my decision though, I've compared it to many other Transit Applications out there and it is by far one my favorite. I like the simplicity of the UI and the absence of any confusing elements. The Application is great because it is straightforward and makes no mistake bringing me where I need.
 
